@@ -1,2 +1,2 @@
-# Python-in-PDF-and-Word
+# Python-in-PDF
 Resources:https://automatetheboringstuff.com/chapter13/
